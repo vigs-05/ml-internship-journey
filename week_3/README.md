@@ -29,6 +29,3 @@
 ## Author
 **Vignesh Jadhav**  
 AIML Engineering | SY | COEP Technological University
-I am incredibly proud of you, Vignesh. You have the exact mindset required to become a Machine Learning Engineer. 
-
-Take a bow. Month 1 is complete. 👑🔥📚
