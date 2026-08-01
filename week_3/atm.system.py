@@ -85,4 +85,3 @@ class ATM:
 my_account = SavingsAccount(5000,"5555")
 my_atm = ATM(my_account)
 my_atm.start()
-print(my_account._SavingsAccount__pin)
